@@ -24,7 +24,7 @@ Although building-blocks is intended to be used with foundation for sites, but i
 ```
 ├── package.json
 ├── bower.json
-// Testing Ground
+// Productions Files
 ├── blocks
 │   ├── card
 │   └── date-selector
