@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/HansUXdev/F6-Building-Blocks#readme",
   "devDependencies": {
-    "foundation-sites": "^6.2.1"
+    "foundation-sites": "^6.2.1",
+    "gulp": "^3.9.1"
   }
 }
