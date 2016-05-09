@@ -1,0 +1,29 @@
+{
+  "name": "building-blocks-sites",
+  "version": "1.0.0",
+  "description": "A collection of components for Foundation Sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansUXdev/F6-Building-Blocks.git"
+  },
+  "keywords": [
+    "zurb",
+    "foundation",
+    "building-blocks",
+    "foundation-sites",
+    "foundation-plugin"
+  ],
+  "author": "Hans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HansUXdev/F6-Building-Blocks/issues"
+  },
+  "homepage": "https://github.com/HansUXdev/F6-Building-Blocks#readme",
+  "devDependencies": {
+    "foundation-sites": "^6.2.1"
+  }
+}
