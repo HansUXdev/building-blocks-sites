@@ -21,7 +21,7 @@ Although building-blocks is intended to be used with foundation for sites, but i
 
 
 ## Folder Structure
-
+```
 ├── package.json
 ├── bower.json
 // Testing Ground
@@ -43,3 +43,4 @@ Although building-blocks is intended to be used with foundation for sites, but i
     ├── partials
     ├── pages
     ├── data
+```
