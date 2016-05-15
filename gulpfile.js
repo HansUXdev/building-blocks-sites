@@ -19,11 +19,26 @@ var	gulp 				= require('gulp'),
 
 
 // Generate Settings for building blocks
-    gulp.task('block-settings', function() {
-      octophant('src/scss/**/*.scss', 
+    gulp.task('blocks', function() {
+      octophant('src/assets/scss/**/*.scss', 
       {
         title: 'Building Blocks Settings',
-        output: 'blocks/_building-blocks.scss',
-        // sort: ['global', 'grid', 'block-grid', 'type']
+        output: 
+        	// 'blocks/_building-blocks.scss',
+        	'src/assets/scss/_block-settings.scss'
+        ,
+        sort: [
+        	// Navigation
+        	'Off-Canvas-Sidebar',
+	        // Buttons
+        	'social-login button',
+        	'option button',
+        	'pagination-circle',
+        	// Other
+        	'service-block',
+        	// Calendar
+        	'event-listing',
+        	'date-selector',
+        ]
       });
     });

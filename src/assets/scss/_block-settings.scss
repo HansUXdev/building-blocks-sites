@@ -1,0 +1,67 @@
+//  Building Blocks Settings
+//  ------------------------
+//
+//  Table of Contents:
+//
+//   1. Off Canvas-Sidebar
+//   2. Social Login Button
+//   3. Option Button
+//   4. Pagination Circle
+//   5. Service Block
+//   6. Event Listing
+//   7. Date Selector`
+//   8. Multilevel Accordion
+
+
+// 1. Off Canvas-Sidebar
+// ---------------------
+
+$sidebar: (
+  background: #eee,
+  color: #000,
+);
+
+// 2. Social Login Button
+// ----------------------
+
+$facebook-color: #3b5998;
+$twitter-color: #55acee;
+$google-color: #d50f25;
+$text-transform: uppercase;
+$icon-size: 2rem;
+
+// 3. Option Button
+// ----------------
+
+$service-background: #00a8ff;
+
+// 4. Pagination Circle
+// --------------------
+
+$pagination-color: #cacaca;
+$pagination-font-size: rem-calc(18);
+$pagination-item-padding: rem-calc(6 15);
+
+// 5. Service Block
+// ----------------
+
+$service-background: #00a8ff;
+
+// 6. Event Listing
+// ----------------
+
+$event-month: #eee;
+$event-day: #eee;
+
+// 7. Date Selector`
+// -----------------
+
+$event-month: #eee;
+
+// 8. Multilevel Accordion
+// -----------------------
+
+$accordion-bg: #4d5158;
+$accordion-sub-bg: #35383d;
+$accordion-separator: #41444a;
+
